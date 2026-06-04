@@ -1,0 +1,31 @@
+pandas==2.1.4          # Data manipulation and analysis (DataFrames, CSV handling, etc.)
+numpy==1.26.4          # Numerical computing (arrays, matrix operations, math functions)
+
+scikit-learn==1.4.0    # Machine Learning library (model building, preprocessing, evaluation)
+xgboost==2.0.3         # Advanced gradient boosting algorithm for high-performance ML models
+
+mlflow==2.10.0         # ML lifecycle management (experiment tracking, model versioning, deployment)
+
+fastapi==0.109.2       # Fast web framework for building APIs (high performance)
+uvicorn==0.27.1        # ASGI server to run FastAPI applications
+
+pymysql==1.1.0         # MySQL database connector (pure Python)
+sqlalchemy==2.0.25     # ORM for database interaction (SQL abstraction layer)
+
+python-dotenv==1.0.0   # Load environment variables from .env files (secure config management)
+
+evidently==0.4.16      # Data and model monitoring (drift detection, performance tracking)
+
+apscheduler==3.10.4    # Task scheduling (run jobs periodically or at specific times)
+
+pytest==7.4.4          # Testing framework for writing and running unit tests
+
+httpx==0.26.0          # HTTP client for making API requests (async + sync support)
+
+cryptography==42.0.5   #PyMySQL with MySQL 8.0  secure authentication
+
+imbalanced-learn==0.12.0  #for imbalanced data
+
+jinja2==3.1.4           # for web app
+
+psycopg2-binary==2.9.9  # for postgre connection
